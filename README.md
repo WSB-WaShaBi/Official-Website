@@ -2,4 +2,4 @@
 
 Official Website for WaShaBi Server.
 
-[GitHub Pages](https://wsb-washabi.github.io/Official-Website/) or [Official Website](www.washabi.world).
+[GitHub Pages](https://wsb-washabi.github.io/Official-Website/) or [Official Website](https://www.washabi.world).
